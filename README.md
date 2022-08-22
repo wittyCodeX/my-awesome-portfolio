@@ -14,11 +14,6 @@
     An awesome, modern React portfolio
     <br />
     <br />
-    <a href="https://mehdibha.codehub.tn">View Demo</a>
-    ·
-    <a href="https://github.com/Mehdi-BHA/Awesomefolio/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Mehdi-BHA/Awesomefolio/issues">Request Feature</a>
   </p>
 </p>
 
@@ -48,8 +43,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-First version of <a href="https://mehdibha.codehub.tn" target="_blank">mehdibha.codehub.tn</a>
 
 ### Forking this project
 If someone wants to use this code on his own website, the answer is **YES** BUT please with credits !
@@ -127,10 +120,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Mehdi Ben Hadj Ali - [linkedIn](https://www.linkedin.com/in/mehdibha/) - mehdibenhadjali@gmail.com
-
-Project Link: [https://github.com/Mehdi-BHA/Awesomefolio](https://github.com/Mehdi-BHA/Awesomefolio)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
