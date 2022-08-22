@@ -25,7 +25,6 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Forking this project</a></li>
-        <li><a href="#built-with">Screenshots</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -47,37 +46,6 @@
 ### Forking this project
 If someone wants to use this code on his own website, the answer is **YES** BUT please with credits !
 I've spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it!
-
-### Screenshots
-
-<p align="center">
-  <p align="center">Light Mode</p>
-  <img src="screenshots/light.png" alt="Home section">
-</p>
-<p align="center">
-  <p align="center">Home Section</p>
-  <img src="screenshots/home.png" alt="Home section">
-</p>
-<br />
-<p align="center">
-  <p align="center">About Section</p>
-  <img src="screenshots/about.png" alt="About section">
-</p>
-<br />
-<p align="center">
-  <p align="center">Experience Section</p>
-  <img src="screenshots/experience.png" alt="Experience section">
-</p>
-<br />
-<p align="center">
-  <p align="center">Projects Section</p>
-  <img src="screenshots/projects.png" alt="Projects section">
-</p>
-<br />
-<p align="center">
-  <p align="center">Contact Section</p>
-  <img src="screenshots/contact.png" alt="Contact section">
-</p>
 
 ### Built With
 
