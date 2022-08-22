@@ -1,13 +1,13 @@
-import React from "react";
-import LoaderContainer from "../../containers/LoaderContainer";
-import Mehdi from "../../assets/images/Mehdi";
+import React from 'react'
+import LoaderContainer from '../../containers/LoaderContainer'
+import NameImg from '../../assets/images/loader.svg'
 
 const Loader = () => {
-    return (
-        <LoaderContainer>
-            <Mehdi width={250} />
-        </LoaderContainer>
-    );
-};
+  return (
+    <LoaderContainer>
+      <img src={NameImg} alt="Jonathan Brown" />
+    </LoaderContainer>
+  )
+}
 
-export default Loader;
+export default Loader
